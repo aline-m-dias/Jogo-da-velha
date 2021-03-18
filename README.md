@@ -1,2 +1,5 @@
 # Jogo-da-velha
 Este repositório tem como objetivo apresentar o algoritmo do jogo da velha  inovado. A proposta do trabalho foi baseada na metodologia ativa de ensino, visando a elaboração de um projeto que relacionasse algum conteúdo da disciplina  Geometria Analítica e Álgebra Linear do curso de graduação em Sistemas de Informação da Universidade Federal de Ouro Preto (UFOP) com a sua aplicação no curso.  Para tal, foi desenvolvido um algoritmo que permite o cálculo de determinantes utilizando o conceito de cofator – Teorema de Laplace – em cada uma das linhas e colunas de uma determinada matriz. Além disso, este trabalho proporcionou uma maior interação entre alunos e professores de diferentes áreas, uma vez que possibilitou a interdisciplinaridade envolvendo conteúdos das disciplinas de GAAL e Programação  de computadores I.
+
+Ressalta-se também que esse código  e sua lógica está explicado no artigo: Teorema de Laplace X Jogo da Velha: uma abordagem computacional, publicado nos anais do II Workshop Em Sistemas De Informação (WSI-2019).
+**
